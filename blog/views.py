@@ -4,8 +4,8 @@ from django.shortcuts import render
 posts = [
     {
         "author": "Cedric Bansah",
-        "title": "Django for Beginners",
-        "content": "First page of book",
+        "title": "Amapiano Will Never Die",
+        "content": "SUKA!!",
         "date_posted": "May 28"
     },
     {
