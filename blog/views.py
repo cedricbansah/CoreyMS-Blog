@@ -11,8 +11,8 @@ posts = [
     {
         "author": "Kendall Roy",
         "title": "Little Lord Fuckleroy",
-        "content": "One head one crown. Reverse Viking",
-        "date_posted": "May 28"
+        "content": "One head one crow. Reverse Viking",
+        "date_posted": "May 2"
     }
 ]
 def home(request):
